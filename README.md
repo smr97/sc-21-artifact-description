@@ -3,7 +3,7 @@ Contains the artifact description for our paper on scaling GNNs
 We are unable to release the source code as it is classified as proprietary by the organization at this stage.
 This README contains as much detail as possible for someone to be able to implement the scaling aspects discussed in the paper.
 
-The models are available as follows:
+The sequential models (implemented by the authors of the respective prior work) are available as follows:
 
 EvolveGCN: https://github.com/IBM/EvolveGCN
 
